@@ -33,11 +33,22 @@ li {
 
 .aboutme {
     color: black;
-    font-size: 30px;
+    font-size: 18px;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     width: auto;
     padding: 20px 10px;
     margin: 20px;
     border: 5px solid pink;
+}
+
+.funfacts {
+    color: black;
+    font-size: 18px;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    width: auto;
+    padding: 20px 10px;
+    margin: 20px;
+    border: 5px solid orange;
 }
